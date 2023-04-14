@@ -1,0 +1,30 @@
+body{
+min-height: 100vh;
+background-image: url(wp2747230\ \(1\).webp);
+background-size: cover;
+background-attachment: fixed;
+margin: 0%;
+}
+h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-style: solid;
+    border-radius: 50px 50px;
+    text-transform: uppercase;
+}
+h2{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-style: solid;
+    border-radius: 50px 50px;
+    text-transform: uppercase;
+}
+h3{
+     color: rgb(255, 255, 255);
+    text-align: center;
+    border-style: solid;
+    border-radius: 50px 50px; 
+    text-transform: uppercase;
+}
+
+
